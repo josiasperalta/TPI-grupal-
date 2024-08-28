@@ -1,0 +1,241 @@
+F:\Desktop\Escritorio\TUP\PRIMER CUATRIMESTRE\PROG LOGICA\practicas con los pibes\ABMInquilinos.app\ABMInquilinos.app\obj\Debug\net7.0-windows\ABMInquilinos.app.csproj.AssemblyReference.cache
+F:\Desktop\Escritorio\TUP\PRIMER CUATRIMESTRE\PROG LOGICA\practicas con los pibes\ABMInquilinos.app\ABMInquilinos.app\obj\Debug\net7.0-windows\ABMInquilinos.app.Vistas.FrmMenu.resources
+F:\Desktop\Escritorio\TUP\PRIMER CUATRIMESTRE\PROG LOGICA\practicas con los pibes\ABMInquilinos.app\ABMInquilinos.app\obj\Debug\net7.0-windows\ABMInquilinos.app.csproj.GenerateResource.cache
+F:\Desktop\Escritorio\TUP\PRIMER CUATRIMESTRE\PROG LOGICA\practicas con los pibes\ABMInquilinos.app\ABMInquilinos.app\obj\Debug\net7.0-windows\ABMInquilinos.app.GeneratedMSBuildEditorConfig.editorconfig
+F:\Desktop\Escritorio\TUP\PRIMER CUATRIMESTRE\PROG LOGICA\practicas con los pibes\ABMInquilinos.app\ABMInquilinos.app\obj\Debug\net7.0-windows\ABMInquilinos.app.AssemblyInfoInputs.cache
+F:\Desktop\Escritorio\TUP\PRIMER CUATRIMESTRE\PROG LOGICA\practicas con los pibes\ABMInquilinos.app\ABMInquilinos.app\obj\Debug\net7.0-windows\ABMInquilinos.app.AssemblyInfo.cs
+F:\Desktop\Escritorio\TUP\PRIMER CUATRIMESTRE\PROG LOGICA\practicas con los pibes\ABMInquilinos.app\ABMInquilinos.app\obj\Debug\net7.0-windows\ABMInquilinos.app.csproj.CoreCompileInputs.cache
+F:\Desktop\Escritorio\TUP\PRIMER CUATRIMESTRE\PROG LOGICA\practicas con los pibes\ABMInquilinos.app\ABMInquilinos.app\bin\Debug\net7.0-windows\ABMInquilinos.app.exe
+F:\Desktop\Escritorio\TUP\PRIMER CUATRIMESTRE\PROG LOGICA\practicas con los pibes\ABMInquilinos.app\ABMInquilinos.app\bin\Debug\net7.0-windows\ABMInquilinos.app.deps.json
+F:\Desktop\Escritorio\TUP\PRIMER CUATRIMESTRE\PROG LOGICA\practicas con los pibes\ABMInquilinos.app\ABMInquilinos.app\bin\Debug\net7.0-windows\ABMInquilinos.app.runtimeconfig.json
+F:\Desktop\Escritorio\TUP\PRIMER CUATRIMESTRE\PROG LOGICA\practicas con los pibes\ABMInquilinos.app\ABMInquilinos.app\bin\Debug\net7.0-windows\ABMInquilinos.app.dll
+F:\Desktop\Escritorio\TUP\PRIMER CUATRIMESTRE\PROG LOGICA\practicas con los pibes\ABMInquilinos.app\ABMInquilinos.app\bin\Debug\net7.0-windows\ABMInquilinos.app.pdb
+F:\Desktop\Escritorio\TUP\PRIMER CUATRIMESTRE\PROG LOGICA\practicas con los pibes\ABMInquilinos.app\ABMInquilinos.app\obj\Debug\net7.0-windows\ABMInquilinos.app.dll
+F:\Desktop\Escritorio\TUP\PRIMER CUATRIMESTRE\PROG LOGICA\practicas con los pibes\ABMInquilinos.app\ABMInquilinos.app\obj\Debug\net7.0-windows\refint\ABMInquilinos.app.dll
+F:\Desktop\Escritorio\TUP\PRIMER CUATRIMESTRE\PROG LOGICA\practicas con los pibes\ABMInquilinos.app\ABMInquilinos.app\obj\Debug\net7.0-windows\ABMInquilinos.app.pdb
+F:\Desktop\Escritorio\TUP\PRIMER CUATRIMESTRE\PROG LOGICA\practicas con los pibes\ABMInquilinos.app\ABMInquilinos.app\obj\Debug\net7.0-windows\ABMInquilinos.app.genruntimeconfig.cache
+F:\Desktop\Escritorio\TUP\PRIMER CUATRIMESTRE\PROG LOGICA\practicas con los pibes\ABMInquilinos.app\ABMInquilinos.app\obj\Debug\net7.0-windows\ref\ABMInquilinos.app.dll
+C:\Users\Pertu\Desktop\TUP\ABMInquilinos.app\ABMInquilinos.app\obj\Debug\net7.0-windows\ABMInquilinos.app.csproj.AssemblyReference.cache
+C:\Users\Pertu\Desktop\TUP\ABMInquilinos.app\ABMInquilinos.app\obj\Debug\net7.0-windows\ABMInquilinos.app.Properties.Resources.resources
+C:\Users\Pertu\Desktop\TUP\ABMInquilinos.app\ABMInquilinos.app\obj\Debug\net7.0-windows\ABMInquilinos.app.Vistas.DetalleInquilino.resources
+C:\Users\Pertu\Desktop\TUP\ABMInquilinos.app\ABMInquilinos.app\obj\Debug\net7.0-windows\ABMInquilinos.app.Vistas.FrmMenu.resources
+C:\Users\Pertu\Desktop\TUP\ABMInquilinos.app\ABMInquilinos.app\obj\Debug\net7.0-windows\ABMInquilinos.app.Vistas.UpsertInquilino.resources
+C:\Users\Pertu\Desktop\TUP\ABMInquilinos.app\ABMInquilinos.app\obj\Debug\net7.0-windows\ABMInquilinos.app.csproj.GenerateResource.cache
+C:\Users\Pertu\Desktop\TUP\ABMInquilinos.app\ABMInquilinos.app\obj\Debug\net7.0-windows\ABMInquilinos.app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pertu\Desktop\TUP\ABMInquilinos.app\ABMInquilinos.app\obj\Debug\net7.0-windows\ABMInquilinos.app.AssemblyInfoInputs.cache
+C:\Users\Pertu\Desktop\TUP\ABMInquilinos.app\ABMInquilinos.app\obj\Debug\net7.0-windows\ABMInquilinos.app.AssemblyInfo.cs
+C:\Users\Pertu\Desktop\TUP\ABMInquilinos.app\ABMInquilinos.app\obj\Debug\net7.0-windows\ABMInquilinos.app.csproj.CoreCompileInputs.cache
+C:\Users\Pertu\Desktop\TUP\ABMInquilinos.app\ABMInquilinos.app\obj\Debug\net7.0-windows\ABMInquilinos.app.dll
+C:\Users\Pertu\Desktop\TUP\ABMInquilinos.app\ABMInquilinos.app\obj\Debug\net7.0-windows\refint\ABMInquilinos.app.dll
+C:\Users\Pertu\Desktop\TUP\ABMInquilinos.app\ABMInquilinos.app\obj\Debug\net7.0-windows\ABMInquilinos.app.pdb
+C:\Users\Pertu\Desktop\TUP\ABMInquilinos.app\ABMInquilinos.app\bin\Debug\net7.0-windows\ABMInquilinos.app.exe
+C:\Users\Pertu\Desktop\TUP\ABMInquilinos.app\ABMInquilinos.app\bin\Debug\net7.0-windows\ABMInquilinos.app.deps.json
+C:\Users\Pertu\Desktop\TUP\ABMInquilinos.app\ABMInquilinos.app\bin\Debug\net7.0-windows\ABMInquilinos.app.runtimeconfig.json
+C:\Users\Pertu\Desktop\TUP\ABMInquilinos.app\ABMInquilinos.app\bin\Debug\net7.0-windows\ABMInquilinos.app.dll
+C:\Users\Pertu\Desktop\TUP\ABMInquilinos.app\ABMInquilinos.app\bin\Debug\net7.0-windows\ABMInquilinos.app.pdb
+C:\Users\Pertu\Desktop\TUP\ABMInquilinos.app\ABMInquilinos.app\bin\Debug\net7.0-windows\System.Data.SqlClient.dll
+C:\Users\Pertu\Desktop\TUP\ABMInquilinos.app\ABMInquilinos.app\bin\Debug\net7.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Pertu\Desktop\TUP\ABMInquilinos.app\ABMInquilinos.app\bin\Debug\net7.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Pertu\Desktop\TUP\ABMInquilinos.app\ABMInquilinos.app\bin\Debug\net7.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Pertu\Desktop\TUP\ABMInquilinos.app\ABMInquilinos.app\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Pertu\Desktop\TUP\ABMInquilinos.app\ABMInquilinos.app\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Pertu\Desktop\TUP\ABMInquilinos.app\ABMInquilinos.app\obj\Debug\net7.0-windows\ABMInquilinos.app.csproj.CopyComplete
+C:\Users\Pertu\Desktop\TUP\ABMInquilinos.app\ABMInquilinos.app\obj\Debug\net7.0-windows\ABMInquilinos.app.genruntimeconfig.cache
+C:\Users\Pertu\Desktop\TUP\ABMInquilinos.app\ABMInquilinos.app\obj\Debug\net7.0-windows\ref\ABMInquilinos.app.dll
+F:\Desktop\Escritorio\TUP\PRIMER CUATRIMESTRE\TPI\Entrega 3\ABMInquilinos.app\ABMInquilinos.app\bin\Debug\net7.0-windows\ABMInquilinos.app.exe
+F:\Desktop\Escritorio\TUP\PRIMER CUATRIMESTRE\TPI\Entrega 3\ABMInquilinos.app\ABMInquilinos.app\bin\Debug\net7.0-windows\ABMInquilinos.app.deps.json
+F:\Desktop\Escritorio\TUP\PRIMER CUATRIMESTRE\TPI\Entrega 3\ABMInquilinos.app\ABMInquilinos.app\bin\Debug\net7.0-windows\ABMInquilinos.app.runtimeconfig.json
+F:\Desktop\Escritorio\TUP\PRIMER CUATRIMESTRE\TPI\Entrega 3\ABMInquilinos.app\ABMInquilinos.app\bin\Debug\net7.0-windows\ABMInquilinos.app.dll
+F:\Desktop\Escritorio\TUP\PRIMER CUATRIMESTRE\TPI\Entrega 3\ABMInquilinos.app\ABMInquilinos.app\bin\Debug\net7.0-windows\ABMInquilinos.app.pdb
+F:\Desktop\Escritorio\TUP\PRIMER CUATRIMESTRE\TPI\Entrega 3\ABMInquilinos.app\ABMInquilinos.app\bin\Debug\net7.0-windows\System.Data.SqlClient.dll
+F:\Desktop\Escritorio\TUP\PRIMER CUATRIMESTRE\TPI\Entrega 3\ABMInquilinos.app\ABMInquilinos.app\bin\Debug\net7.0-windows\runtimes\win-arm64\native\sni.dll
+F:\Desktop\Escritorio\TUP\PRIMER CUATRIMESTRE\TPI\Entrega 3\ABMInquilinos.app\ABMInquilinos.app\bin\Debug\net7.0-windows\runtimes\win-x64\native\sni.dll
+F:\Desktop\Escritorio\TUP\PRIMER CUATRIMESTRE\TPI\Entrega 3\ABMInquilinos.app\ABMInquilinos.app\bin\Debug\net7.0-windows\runtimes\win-x86\native\sni.dll
+F:\Desktop\Escritorio\TUP\PRIMER CUATRIMESTRE\TPI\Entrega 3\ABMInquilinos.app\ABMInquilinos.app\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\Desktop\Escritorio\TUP\PRIMER CUATRIMESTRE\TPI\Entrega 3\ABMInquilinos.app\ABMInquilinos.app\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\Desktop\Escritorio\TUP\PRIMER CUATRIMESTRE\TPI\Entrega 3\ABMInquilinos.app\ABMInquilinos.app\obj\Debug\net7.0-windows\ABMInquilinos.app.csproj.AssemblyReference.cache
+F:\Desktop\Escritorio\TUP\PRIMER CUATRIMESTRE\TPI\Entrega 3\ABMInquilinos.app\ABMInquilinos.app\obj\Debug\net7.0-windows\ABMInquilinos.app.Properties.Resources.resources
+F:\Desktop\Escritorio\TUP\PRIMER CUATRIMESTRE\TPI\Entrega 3\ABMInquilinos.app\ABMInquilinos.app\obj\Debug\net7.0-windows\ABMInquilinos.app.Vistas.FrmMenu.resources
+F:\Desktop\Escritorio\TUP\PRIMER CUATRIMESTRE\TPI\Entrega 3\ABMInquilinos.app\ABMInquilinos.app\obj\Debug\net7.0-windows\ABMInquilinos.app.csproj.GenerateResource.cache
+F:\Desktop\Escritorio\TUP\PRIMER CUATRIMESTRE\TPI\Entrega 3\ABMInquilinos.app\ABMInquilinos.app\obj\Debug\net7.0-windows\ABMInquilinos.app.GeneratedMSBuildEditorConfig.editorconfig
+F:\Desktop\Escritorio\TUP\PRIMER CUATRIMESTRE\TPI\Entrega 3\ABMInquilinos.app\ABMInquilinos.app\obj\Debug\net7.0-windows\ABMInquilinos.app.AssemblyInfoInputs.cache
+F:\Desktop\Escritorio\TUP\PRIMER CUATRIMESTRE\TPI\Entrega 3\ABMInquilinos.app\ABMInquilinos.app\obj\Debug\net7.0-windows\ABMInquilinos.app.AssemblyInfo.cs
+F:\Desktop\Escritorio\TUP\PRIMER CUATRIMESTRE\TPI\Entrega 3\ABMInquilinos.app\ABMInquilinos.app\obj\Debug\net7.0-windows\ABMInquilinos.app.csproj.CoreCompileInputs.cache
+F:\Desktop\Escritorio\TUP\PRIMER CUATRIMESTRE\TPI\Entrega 3\ABMInquilinos.app\ABMInquilinos.app\obj\Debug\net7.0-windows\ABMInquilinos.app.csproj.CopyComplete
+F:\Desktop\Escritorio\TUP\PRIMER CUATRIMESTRE\TPI\Entrega 3\ABMInquilinos.app\ABMInquilinos.app\obj\Debug\net7.0-windows\ABMInquilinos.app.dll
+F:\Desktop\Escritorio\TUP\PRIMER CUATRIMESTRE\TPI\Entrega 3\ABMInquilinos.app\ABMInquilinos.app\obj\Debug\net7.0-windows\refint\ABMInquilinos.app.dll
+F:\Desktop\Escritorio\TUP\PRIMER CUATRIMESTRE\TPI\Entrega 3\ABMInquilinos.app\ABMInquilinos.app\obj\Debug\net7.0-windows\ABMInquilinos.app.pdb
+F:\Desktop\Escritorio\TUP\PRIMER CUATRIMESTRE\TPI\Entrega 3\ABMInquilinos.app\ABMInquilinos.app\obj\Debug\net7.0-windows\ABMInquilinos.app.genruntimeconfig.cache
+F:\Desktop\Escritorio\TUP\PRIMER CUATRIMESTRE\TPI\Entrega 3\ABMInquilinos.app\ABMInquilinos.app\obj\Debug\net7.0-windows\ref\ABMInquilinos.app.dll
+F:\Desktop\Escritorio\TUP\PRIMER CUATRIMESTRE\TPI\Entrega 3\ABMInquilinos.app\ABMInquilinos.app\obj\Debug\net7.0-windows\ABMInquilinos.app.Vistas.FrmDetalleInquilino.resources
+F:\Desktop\Escritorio\TUP\PRIMER CUATRIMESTRE\TPI\Entrega 3\ABMInquilinos.app\ABMInquilinos.app\obj\Debug\net7.0-windows\ABMInquilinos.app.Vistas.FrmUpsertInquilino.resources
+E:\JOEL\TUP - UTN - FRC\PRIMER_CUAT\PROG_LOG\TPI\ABMInquilinos.app\ABMInquilinos.app\bin\Debug\net7.0-windows\ABMInquilinos.app.exe
+E:\JOEL\TUP - UTN - FRC\PRIMER_CUAT\PROG_LOG\TPI\ABMInquilinos.app\ABMInquilinos.app\bin\Debug\net7.0-windows\ABMInquilinos.app.deps.json
+E:\JOEL\TUP - UTN - FRC\PRIMER_CUAT\PROG_LOG\TPI\ABMInquilinos.app\ABMInquilinos.app\bin\Debug\net7.0-windows\ABMInquilinos.app.runtimeconfig.json
+E:\JOEL\TUP - UTN - FRC\PRIMER_CUAT\PROG_LOG\TPI\ABMInquilinos.app\ABMInquilinos.app\bin\Debug\net7.0-windows\ABMInquilinos.app.dll
+E:\JOEL\TUP - UTN - FRC\PRIMER_CUAT\PROG_LOG\TPI\ABMInquilinos.app\ABMInquilinos.app\bin\Debug\net7.0-windows\ABMInquilinos.app.pdb
+E:\JOEL\TUP - UTN - FRC\PRIMER_CUAT\PROG_LOG\TPI\ABMInquilinos.app\ABMInquilinos.app\bin\Debug\net7.0-windows\System.Data.SqlClient.dll
+E:\JOEL\TUP - UTN - FRC\PRIMER_CUAT\PROG_LOG\TPI\ABMInquilinos.app\ABMInquilinos.app\bin\Debug\net7.0-windows\runtimes\win-arm64\native\sni.dll
+E:\JOEL\TUP - UTN - FRC\PRIMER_CUAT\PROG_LOG\TPI\ABMInquilinos.app\ABMInquilinos.app\bin\Debug\net7.0-windows\runtimes\win-x64\native\sni.dll
+E:\JOEL\TUP - UTN - FRC\PRIMER_CUAT\PROG_LOG\TPI\ABMInquilinos.app\ABMInquilinos.app\bin\Debug\net7.0-windows\runtimes\win-x86\native\sni.dll
+E:\JOEL\TUP - UTN - FRC\PRIMER_CUAT\PROG_LOG\TPI\ABMInquilinos.app\ABMInquilinos.app\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\JOEL\TUP - UTN - FRC\PRIMER_CUAT\PROG_LOG\TPI\ABMInquilinos.app\ABMInquilinos.app\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\JOEL\TUP - UTN - FRC\PRIMER_CUAT\PROG_LOG\TPI\ABMInquilinos.app\ABMInquilinos.app\obj\Debug\net7.0-windows\ABMInquilinos.app.csproj.AssemblyReference.cache
+E:\JOEL\TUP - UTN - FRC\PRIMER_CUAT\PROG_LOG\TPI\ABMInquilinos.app\ABMInquilinos.app\obj\Debug\net7.0-windows\ABMInquilinos.app.Properties.Resources.resources
+E:\JOEL\TUP - UTN - FRC\PRIMER_CUAT\PROG_LOG\TPI\ABMInquilinos.app\ABMInquilinos.app\obj\Debug\net7.0-windows\ABMInquilinos.app.Vistas.FrmDetalleInquilino.resources
+E:\JOEL\TUP - UTN - FRC\PRIMER_CUAT\PROG_LOG\TPI\ABMInquilinos.app\ABMInquilinos.app\obj\Debug\net7.0-windows\ABMInquilinos.app.Vistas.FrmMenu.resources
+E:\JOEL\TUP - UTN - FRC\PRIMER_CUAT\PROG_LOG\TPI\ABMInquilinos.app\ABMInquilinos.app\obj\Debug\net7.0-windows\ABMInquilinos.app.Vistas.FrmUpsertInquilino.resources
+E:\JOEL\TUP - UTN - FRC\PRIMER_CUAT\PROG_LOG\TPI\ABMInquilinos.app\ABMInquilinos.app\obj\Debug\net7.0-windows\ABMInquilinos.app.csproj.GenerateResource.cache
+E:\JOEL\TUP - UTN - FRC\PRIMER_CUAT\PROG_LOG\TPI\ABMInquilinos.app\ABMInquilinos.app\obj\Debug\net7.0-windows\ABMInquilinos.app.GeneratedMSBuildEditorConfig.editorconfig
+E:\JOEL\TUP - UTN - FRC\PRIMER_CUAT\PROG_LOG\TPI\ABMInquilinos.app\ABMInquilinos.app\obj\Debug\net7.0-windows\ABMInquilinos.app.AssemblyInfoInputs.cache
+E:\JOEL\TUP - UTN - FRC\PRIMER_CUAT\PROG_LOG\TPI\ABMInquilinos.app\ABMInquilinos.app\obj\Debug\net7.0-windows\ABMInquilinos.app.AssemblyInfo.cs
+E:\JOEL\TUP - UTN - FRC\PRIMER_CUAT\PROG_LOG\TPI\ABMInquilinos.app\ABMInquilinos.app\obj\Debug\net7.0-windows\ABMInquilinos.app.csproj.CoreCompileInputs.cache
+E:\JOEL\TUP - UTN - FRC\PRIMER_CUAT\PROG_LOG\TPI\ABMInquilinos.app\ABMInquilinos.app\obj\Debug\net7.0-windows\ABMInqui.97F0D06E.Up2Date
+E:\JOEL\TUP - UTN - FRC\PRIMER_CUAT\PROG_LOG\TPI\ABMInquilinos.app\ABMInquilinos.app\obj\Debug\net7.0-windows\ABMInquilinos.app.dll
+E:\JOEL\TUP - UTN - FRC\PRIMER_CUAT\PROG_LOG\TPI\ABMInquilinos.app\ABMInquilinos.app\obj\Debug\net7.0-windows\refint\ABMInquilinos.app.dll
+E:\JOEL\TUP - UTN - FRC\PRIMER_CUAT\PROG_LOG\TPI\ABMInquilinos.app\ABMInquilinos.app\obj\Debug\net7.0-windows\ABMInquilinos.app.pdb
+E:\JOEL\TUP - UTN - FRC\PRIMER_CUAT\PROG_LOG\TPI\ABMInquilinos.app\ABMInquilinos.app\obj\Debug\net7.0-windows\ABMInquilinos.app.genruntimeconfig.cache
+E:\JOEL\TUP - UTN - FRC\PRIMER_CUAT\PROG_LOG\TPI\ABMInquilinos.app\ABMInquilinos.app\obj\Debug\net7.0-windows\ref\ABMInquilinos.app.dll
+F:\Desktop\Escritorio\TUP\PRIMER CUATRIMESTRE\TPI\borradores\ABMInquilinos.app\ABMInquilinos.app\bin\Debug\net7.0-windows\ABMInquilinos.app.exe
+F:\Desktop\Escritorio\TUP\PRIMER CUATRIMESTRE\TPI\borradores\ABMInquilinos.app\ABMInquilinos.app\bin\Debug\net7.0-windows\ABMInquilinos.app.deps.json
+F:\Desktop\Escritorio\TUP\PRIMER CUATRIMESTRE\TPI\borradores\ABMInquilinos.app\ABMInquilinos.app\bin\Debug\net7.0-windows\ABMInquilinos.app.runtimeconfig.json
+F:\Desktop\Escritorio\TUP\PRIMER CUATRIMESTRE\TPI\borradores\ABMInquilinos.app\ABMInquilinos.app\bin\Debug\net7.0-windows\ABMInquilinos.app.dll
+F:\Desktop\Escritorio\TUP\PRIMER CUATRIMESTRE\TPI\borradores\ABMInquilinos.app\ABMInquilinos.app\bin\Debug\net7.0-windows\ABMInquilinos.app.pdb
+F:\Desktop\Escritorio\TUP\PRIMER CUATRIMESTRE\TPI\borradores\ABMInquilinos.app\ABMInquilinos.app\bin\Debug\net7.0-windows\System.Data.SqlClient.dll
+F:\Desktop\Escritorio\TUP\PRIMER CUATRIMESTRE\TPI\borradores\ABMInquilinos.app\ABMInquilinos.app\bin\Debug\net7.0-windows\runtimes\win-arm64\native\sni.dll
+F:\Desktop\Escritorio\TUP\PRIMER CUATRIMESTRE\TPI\borradores\ABMInquilinos.app\ABMInquilinos.app\bin\Debug\net7.0-windows\runtimes\win-x64\native\sni.dll
+F:\Desktop\Escritorio\TUP\PRIMER CUATRIMESTRE\TPI\borradores\ABMInquilinos.app\ABMInquilinos.app\bin\Debug\net7.0-windows\runtimes\win-x86\native\sni.dll
+F:\Desktop\Escritorio\TUP\PRIMER CUATRIMESTRE\TPI\borradores\ABMInquilinos.app\ABMInquilinos.app\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\Desktop\Escritorio\TUP\PRIMER CUATRIMESTRE\TPI\borradores\ABMInquilinos.app\ABMInquilinos.app\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\Desktop\Escritorio\TUP\PRIMER CUATRIMESTRE\TPI\borradores\ABMInquilinos.app\ABMInquilinos.app\obj\Debug\net7.0-windows\ABMInquilinos.app.csproj.AssemblyReference.cache
+F:\Desktop\Escritorio\TUP\PRIMER CUATRIMESTRE\TPI\borradores\ABMInquilinos.app\ABMInquilinos.app\obj\Debug\net7.0-windows\ABMInquilinos.app.Properties.Resources.resources
+F:\Desktop\Escritorio\TUP\PRIMER CUATRIMESTRE\TPI\borradores\ABMInquilinos.app\ABMInquilinos.app\obj\Debug\net7.0-windows\ABMInquilinos.app.Vistas.FrmDetalleInquilino.resources
+F:\Desktop\Escritorio\TUP\PRIMER CUATRIMESTRE\TPI\borradores\ABMInquilinos.app\ABMInquilinos.app\obj\Debug\net7.0-windows\ABMInquilinos.app.Vistas.FrmMenu.resources
+F:\Desktop\Escritorio\TUP\PRIMER CUATRIMESTRE\TPI\borradores\ABMInquilinos.app\ABMInquilinos.app\obj\Debug\net7.0-windows\ABMInquilinos.app.Vistas.FrmUpsertInquilino.resources
+F:\Desktop\Escritorio\TUP\PRIMER CUATRIMESTRE\TPI\borradores\ABMInquilinos.app\ABMInquilinos.app\obj\Debug\net7.0-windows\ABMInquilinos.app.csproj.GenerateResource.cache
+F:\Desktop\Escritorio\TUP\PRIMER CUATRIMESTRE\TPI\borradores\ABMInquilinos.app\ABMInquilinos.app\obj\Debug\net7.0-windows\ABMInquilinos.app.GeneratedMSBuildEditorConfig.editorconfig
+F:\Desktop\Escritorio\TUP\PRIMER CUATRIMESTRE\TPI\borradores\ABMInquilinos.app\ABMInquilinos.app\obj\Debug\net7.0-windows\ABMInquilinos.app.AssemblyInfoInputs.cache
+F:\Desktop\Escritorio\TUP\PRIMER CUATRIMESTRE\TPI\borradores\ABMInquilinos.app\ABMInquilinos.app\obj\Debug\net7.0-windows\ABMInquilinos.app.AssemblyInfo.cs
+F:\Desktop\Escritorio\TUP\PRIMER CUATRIMESTRE\TPI\borradores\ABMInquilinos.app\ABMInquilinos.app\obj\Debug\net7.0-windows\ABMInquilinos.app.csproj.CoreCompileInputs.cache
+F:\Desktop\Escritorio\TUP\PRIMER CUATRIMESTRE\TPI\borradores\ABMInquilinos.app\ABMInquilinos.app\obj\Debug\net7.0-windows\ABMInquilinos.app.csproj.CopyComplete
+F:\Desktop\Escritorio\TUP\PRIMER CUATRIMESTRE\TPI\borradores\ABMInquilinos.app\ABMInquilinos.app\obj\Debug\net7.0-windows\ABMInquilinos.app.dll
+F:\Desktop\Escritorio\TUP\PRIMER CUATRIMESTRE\TPI\borradores\ABMInquilinos.app\ABMInquilinos.app\obj\Debug\net7.0-windows\refint\ABMInquilinos.app.dll
+F:\Desktop\Escritorio\TUP\PRIMER CUATRIMESTRE\TPI\borradores\ABMInquilinos.app\ABMInquilinos.app\obj\Debug\net7.0-windows\ABMInquilinos.app.pdb
+F:\Desktop\Escritorio\TUP\PRIMER CUATRIMESTRE\TPI\borradores\ABMInquilinos.app\ABMInquilinos.app\obj\Debug\net7.0-windows\ABMInquilinos.app.genruntimeconfig.cache
+F:\Desktop\Escritorio\TUP\PRIMER CUATRIMESTRE\TPI\borradores\ABMInquilinos.app\ABMInquilinos.app\obj\Debug\net7.0-windows\ref\ABMInquilinos.app.dll
+F:\Desktop\Escritorio\TUP\PRIMER CUATRIMESTRE\TPI\ABM Y DB\ABMInquilinos.app\ABMInquilinos.app\bin\Debug\net7.0-windows\ABMInquilinos.app.exe
+F:\Desktop\Escritorio\TUP\PRIMER CUATRIMESTRE\TPI\ABM Y DB\ABMInquilinos.app\ABMInquilinos.app\bin\Debug\net7.0-windows\ABMInquilinos.app.deps.json
+F:\Desktop\Escritorio\TUP\PRIMER CUATRIMESTRE\TPI\ABM Y DB\ABMInquilinos.app\ABMInquilinos.app\bin\Debug\net7.0-windows\ABMInquilinos.app.runtimeconfig.json
+F:\Desktop\Escritorio\TUP\PRIMER CUATRIMESTRE\TPI\ABM Y DB\ABMInquilinos.app\ABMInquilinos.app\bin\Debug\net7.0-windows\ABMInquilinos.app.dll
+F:\Desktop\Escritorio\TUP\PRIMER CUATRIMESTRE\TPI\ABM Y DB\ABMInquilinos.app\ABMInquilinos.app\bin\Debug\net7.0-windows\ABMInquilinos.app.pdb
+F:\Desktop\Escritorio\TUP\PRIMER CUATRIMESTRE\TPI\ABM Y DB\ABMInquilinos.app\ABMInquilinos.app\bin\Debug\net7.0-windows\System.Data.SqlClient.dll
+F:\Desktop\Escritorio\TUP\PRIMER CUATRIMESTRE\TPI\ABM Y DB\ABMInquilinos.app\ABMInquilinos.app\bin\Debug\net7.0-windows\runtimes\win-arm64\native\sni.dll
+F:\Desktop\Escritorio\TUP\PRIMER CUATRIMESTRE\TPI\ABM Y DB\ABMInquilinos.app\ABMInquilinos.app\bin\Debug\net7.0-windows\runtimes\win-x64\native\sni.dll
+F:\Desktop\Escritorio\TUP\PRIMER CUATRIMESTRE\TPI\ABM Y DB\ABMInquilinos.app\ABMInquilinos.app\bin\Debug\net7.0-windows\runtimes\win-x86\native\sni.dll
+F:\Desktop\Escritorio\TUP\PRIMER CUATRIMESTRE\TPI\ABM Y DB\ABMInquilinos.app\ABMInquilinos.app\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\Desktop\Escritorio\TUP\PRIMER CUATRIMESTRE\TPI\ABM Y DB\ABMInquilinos.app\ABMInquilinos.app\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\Desktop\Escritorio\TUP\PRIMER CUATRIMESTRE\TPI\ABM Y DB\ABMInquilinos.app\ABMInquilinos.app\obj\Debug\net7.0-windows\ABMInquilinos.app.csproj.AssemblyReference.cache
+F:\Desktop\Escritorio\TUP\PRIMER CUATRIMESTRE\TPI\ABM Y DB\ABMInquilinos.app\ABMInquilinos.app\obj\Debug\net7.0-windows\ABMInquilinos.app.Properties.Resources.resources
+F:\Desktop\Escritorio\TUP\PRIMER CUATRIMESTRE\TPI\ABM Y DB\ABMInquilinos.app\ABMInquilinos.app\obj\Debug\net7.0-windows\ABMInquilinos.app.Vistas.FrmDetalleInquilino.resources
+F:\Desktop\Escritorio\TUP\PRIMER CUATRIMESTRE\TPI\ABM Y DB\ABMInquilinos.app\ABMInquilinos.app\obj\Debug\net7.0-windows\ABMInquilinos.app.Vistas.FrmMenu.resources
+F:\Desktop\Escritorio\TUP\PRIMER CUATRIMESTRE\TPI\ABM Y DB\ABMInquilinos.app\ABMInquilinos.app\obj\Debug\net7.0-windows\ABMInquilinos.app.Vistas.FrmUpsertInquilino.resources
+F:\Desktop\Escritorio\TUP\PRIMER CUATRIMESTRE\TPI\ABM Y DB\ABMInquilinos.app\ABMInquilinos.app\obj\Debug\net7.0-windows\ABMInquilinos.app.csproj.GenerateResource.cache
+F:\Desktop\Escritorio\TUP\PRIMER CUATRIMESTRE\TPI\ABM Y DB\ABMInquilinos.app\ABMInquilinos.app\obj\Debug\net7.0-windows\ABMInquilinos.app.GeneratedMSBuildEditorConfig.editorconfig
+F:\Desktop\Escritorio\TUP\PRIMER CUATRIMESTRE\TPI\ABM Y DB\ABMInquilinos.app\ABMInquilinos.app\obj\Debug\net7.0-windows\ABMInquilinos.app.AssemblyInfoInputs.cache
+F:\Desktop\Escritorio\TUP\PRIMER CUATRIMESTRE\TPI\ABM Y DB\ABMInquilinos.app\ABMInquilinos.app\obj\Debug\net7.0-windows\ABMInquilinos.app.AssemblyInfo.cs
+F:\Desktop\Escritorio\TUP\PRIMER CUATRIMESTRE\TPI\ABM Y DB\ABMInquilinos.app\ABMInquilinos.app\obj\Debug\net7.0-windows\ABMInquilinos.app.csproj.CoreCompileInputs.cache
+F:\Desktop\Escritorio\TUP\PRIMER CUATRIMESTRE\TPI\ABM Y DB\ABMInquilinos.app\ABMInquilinos.app\obj\Debug\net7.0-windows\ABMInquilinos.app.csproj.CopyComplete
+F:\Desktop\Escritorio\TUP\PRIMER CUATRIMESTRE\TPI\ABM Y DB\ABMInquilinos.app\ABMInquilinos.app\obj\Debug\net7.0-windows\ABMInquilinos.app.dll
+F:\Desktop\Escritorio\TUP\PRIMER CUATRIMESTRE\TPI\ABM Y DB\ABMInquilinos.app\ABMInquilinos.app\obj\Debug\net7.0-windows\refint\ABMInquilinos.app.dll
+F:\Desktop\Escritorio\TUP\PRIMER CUATRIMESTRE\TPI\ABM Y DB\ABMInquilinos.app\ABMInquilinos.app\obj\Debug\net7.0-windows\ABMInquilinos.app.pdb
+F:\Desktop\Escritorio\TUP\PRIMER CUATRIMESTRE\TPI\ABM Y DB\ABMInquilinos.app\ABMInquilinos.app\obj\Debug\net7.0-windows\ABMInquilinos.app.genruntimeconfig.cache
+F:\Desktop\Escritorio\TUP\PRIMER CUATRIMESTRE\TPI\ABM Y DB\ABMInquilinos.app\ABMInquilinos.app\obj\Debug\net7.0-windows\ref\ABMInquilinos.app.dll
+C:\Users\Pertu\Desktop\ABM Y DB\ABMInquilinos.app\ABMInquilinos.app\bin\Debug\net7.0-windows\ABMInquilinos.app.exe
+C:\Users\Pertu\Desktop\ABM Y DB\ABMInquilinos.app\ABMInquilinos.app\bin\Debug\net7.0-windows\ABMInquilinos.app.deps.json
+C:\Users\Pertu\Desktop\ABM Y DB\ABMInquilinos.app\ABMInquilinos.app\bin\Debug\net7.0-windows\ABMInquilinos.app.runtimeconfig.json
+C:\Users\Pertu\Desktop\ABM Y DB\ABMInquilinos.app\ABMInquilinos.app\bin\Debug\net7.0-windows\ABMInquilinos.app.dll
+C:\Users\Pertu\Desktop\ABM Y DB\ABMInquilinos.app\ABMInquilinos.app\bin\Debug\net7.0-windows\ABMInquilinos.app.pdb
+C:\Users\Pertu\Desktop\ABM Y DB\ABMInquilinos.app\ABMInquilinos.app\bin\Debug\net7.0-windows\System.Data.SqlClient.dll
+C:\Users\Pertu\Desktop\ABM Y DB\ABMInquilinos.app\ABMInquilinos.app\bin\Debug\net7.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Pertu\Desktop\ABM Y DB\ABMInquilinos.app\ABMInquilinos.app\bin\Debug\net7.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Pertu\Desktop\ABM Y DB\ABMInquilinos.app\ABMInquilinos.app\bin\Debug\net7.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Pertu\Desktop\ABM Y DB\ABMInquilinos.app\ABMInquilinos.app\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Pertu\Desktop\ABM Y DB\ABMInquilinos.app\ABMInquilinos.app\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Pertu\Desktop\ABM Y DB\ABMInquilinos.app\ABMInquilinos.app\obj\Debug\net7.0-windows\ABMInquilinos.app.csproj.AssemblyReference.cache
+C:\Users\Pertu\Desktop\ABM Y DB\ABMInquilinos.app\ABMInquilinos.app\obj\Debug\net7.0-windows\ABMInquilinos.app.Properties.Resources.resources
+C:\Users\Pertu\Desktop\ABM Y DB\ABMInquilinos.app\ABMInquilinos.app\obj\Debug\net7.0-windows\ABMInquilinos.app.Vistas.FrmDetalleInquilino.resources
+C:\Users\Pertu\Desktop\ABM Y DB\ABMInquilinos.app\ABMInquilinos.app\obj\Debug\net7.0-windows\ABMInquilinos.app.Vistas.FrmMenu.resources
+C:\Users\Pertu\Desktop\ABM Y DB\ABMInquilinos.app\ABMInquilinos.app\obj\Debug\net7.0-windows\ABMInquilinos.app.Vistas.FrmUpsertInquilino.resources
+C:\Users\Pertu\Desktop\ABM Y DB\ABMInquilinos.app\ABMInquilinos.app\obj\Debug\net7.0-windows\ABMInquilinos.app.csproj.GenerateResource.cache
+C:\Users\Pertu\Desktop\ABM Y DB\ABMInquilinos.app\ABMInquilinos.app\obj\Debug\net7.0-windows\ABMInquilinos.app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pertu\Desktop\ABM Y DB\ABMInquilinos.app\ABMInquilinos.app\obj\Debug\net7.0-windows\ABMInquilinos.app.AssemblyInfoInputs.cache
+C:\Users\Pertu\Desktop\ABM Y DB\ABMInquilinos.app\ABMInquilinos.app\obj\Debug\net7.0-windows\ABMInquilinos.app.AssemblyInfo.cs
+C:\Users\Pertu\Desktop\ABM Y DB\ABMInquilinos.app\ABMInquilinos.app\obj\Debug\net7.0-windows\ABMInquilinos.app.csproj.CoreCompileInputs.cache
+C:\Users\Pertu\Desktop\ABM Y DB\ABMInquilinos.app\ABMInquilinos.app\obj\Debug\net7.0-windows\ABMInquilinos.app.csproj.CopyComplete
+C:\Users\Pertu\Desktop\ABM Y DB\ABMInquilinos.app\ABMInquilinos.app\obj\Debug\net7.0-windows\ABMInquilinos.app.dll
+C:\Users\Pertu\Desktop\ABM Y DB\ABMInquilinos.app\ABMInquilinos.app\obj\Debug\net7.0-windows\refint\ABMInquilinos.app.dll
+C:\Users\Pertu\Desktop\ABM Y DB\ABMInquilinos.app\ABMInquilinos.app\obj\Debug\net7.0-windows\ABMInquilinos.app.pdb
+C:\Users\Pertu\Desktop\ABM Y DB\ABMInquilinos.app\ABMInquilinos.app\obj\Debug\net7.0-windows\ABMInquilinos.app.genruntimeconfig.cache
+C:\Users\Pertu\Desktop\ABM Y DB\ABMInquilinos.app\ABMInquilinos.app\obj\Debug\net7.0-windows\ref\ABMInquilinos.app.dll
+E:\JOEL\TUP - UTN - FRC\PRIMER_CUAT\PROG_LOG\TPI\ABM Y DB\ABMInquilinos.app\ABMInquilinos.app\bin\Debug\net7.0-windows\ABMInquilinos.app.exe
+E:\JOEL\TUP - UTN - FRC\PRIMER_CUAT\PROG_LOG\TPI\ABM Y DB\ABMInquilinos.app\ABMInquilinos.app\bin\Debug\net7.0-windows\ABMInquilinos.app.deps.json
+E:\JOEL\TUP - UTN - FRC\PRIMER_CUAT\PROG_LOG\TPI\ABM Y DB\ABMInquilinos.app\ABMInquilinos.app\bin\Debug\net7.0-windows\ABMInquilinos.app.runtimeconfig.json
+E:\JOEL\TUP - UTN - FRC\PRIMER_CUAT\PROG_LOG\TPI\ABM Y DB\ABMInquilinos.app\ABMInquilinos.app\bin\Debug\net7.0-windows\ABMInquilinos.app.dll
+E:\JOEL\TUP - UTN - FRC\PRIMER_CUAT\PROG_LOG\TPI\ABM Y DB\ABMInquilinos.app\ABMInquilinos.app\bin\Debug\net7.0-windows\ABMInquilinos.app.pdb
+E:\JOEL\TUP - UTN - FRC\PRIMER_CUAT\PROG_LOG\TPI\ABM Y DB\ABMInquilinos.app\ABMInquilinos.app\bin\Debug\net7.0-windows\System.Data.SqlClient.dll
+E:\JOEL\TUP - UTN - FRC\PRIMER_CUAT\PROG_LOG\TPI\ABM Y DB\ABMInquilinos.app\ABMInquilinos.app\bin\Debug\net7.0-windows\runtimes\win-arm64\native\sni.dll
+E:\JOEL\TUP - UTN - FRC\PRIMER_CUAT\PROG_LOG\TPI\ABM Y DB\ABMInquilinos.app\ABMInquilinos.app\bin\Debug\net7.0-windows\runtimes\win-x64\native\sni.dll
+E:\JOEL\TUP - UTN - FRC\PRIMER_CUAT\PROG_LOG\TPI\ABM Y DB\ABMInquilinos.app\ABMInquilinos.app\bin\Debug\net7.0-windows\runtimes\win-x86\native\sni.dll
+E:\JOEL\TUP - UTN - FRC\PRIMER_CUAT\PROG_LOG\TPI\ABM Y DB\ABMInquilinos.app\ABMInquilinos.app\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\JOEL\TUP - UTN - FRC\PRIMER_CUAT\PROG_LOG\TPI\ABM Y DB\ABMInquilinos.app\ABMInquilinos.app\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\JOEL\TUP - UTN - FRC\PRIMER_CUAT\PROG_LOG\TPI\ABM Y DB\ABMInquilinos.app\ABMInquilinos.app\obj\Debug\net7.0-windows\ABMInquilinos.app.csproj.AssemblyReference.cache
+E:\JOEL\TUP - UTN - FRC\PRIMER_CUAT\PROG_LOG\TPI\ABM Y DB\ABMInquilinos.app\ABMInquilinos.app\obj\Debug\net7.0-windows\ABMInquilinos.app.Properties.Resources.resources
+E:\JOEL\TUP - UTN - FRC\PRIMER_CUAT\PROG_LOG\TPI\ABM Y DB\ABMInquilinos.app\ABMInquilinos.app\obj\Debug\net7.0-windows\ABMInquilinos.app.Vistas.FrmDetalleInquilino.resources
+E:\JOEL\TUP - UTN - FRC\PRIMER_CUAT\PROG_LOG\TPI\ABM Y DB\ABMInquilinos.app\ABMInquilinos.app\obj\Debug\net7.0-windows\ABMInquilinos.app.Vistas.FrmMenu.resources
+E:\JOEL\TUP - UTN - FRC\PRIMER_CUAT\PROG_LOG\TPI\ABM Y DB\ABMInquilinos.app\ABMInquilinos.app\obj\Debug\net7.0-windows\ABMInquilinos.app.Vistas.FrmUpsertInquilino.resources
+E:\JOEL\TUP - UTN - FRC\PRIMER_CUAT\PROG_LOG\TPI\ABM Y DB\ABMInquilinos.app\ABMInquilinos.app\obj\Debug\net7.0-windows\ABMInquilinos.app.csproj.GenerateResource.cache
+E:\JOEL\TUP - UTN - FRC\PRIMER_CUAT\PROG_LOG\TPI\ABM Y DB\ABMInquilinos.app\ABMInquilinos.app\obj\Debug\net7.0-windows\ABMInquilinos.app.GeneratedMSBuildEditorConfig.editorconfig
+E:\JOEL\TUP - UTN - FRC\PRIMER_CUAT\PROG_LOG\TPI\ABM Y DB\ABMInquilinos.app\ABMInquilinos.app\obj\Debug\net7.0-windows\ABMInquilinos.app.AssemblyInfoInputs.cache
+E:\JOEL\TUP - UTN - FRC\PRIMER_CUAT\PROG_LOG\TPI\ABM Y DB\ABMInquilinos.app\ABMInquilinos.app\obj\Debug\net7.0-windows\ABMInquilinos.app.AssemblyInfo.cs
+E:\JOEL\TUP - UTN - FRC\PRIMER_CUAT\PROG_LOG\TPI\ABM Y DB\ABMInquilinos.app\ABMInquilinos.app\obj\Debug\net7.0-windows\ABMInquilinos.app.csproj.CoreCompileInputs.cache
+E:\JOEL\TUP - UTN - FRC\PRIMER_CUAT\PROG_LOG\TPI\ABM Y DB\ABMInquilinos.app\ABMInquilinos.app\obj\Debug\net7.0-windows\ABMInqui.97F0D06E.Up2Date
+E:\JOEL\TUP - UTN - FRC\PRIMER_CUAT\PROG_LOG\TPI\ABM Y DB\ABMInquilinos.app\ABMInquilinos.app\obj\Debug\net7.0-windows\ABMInquilinos.app.dll
+E:\JOEL\TUP - UTN - FRC\PRIMER_CUAT\PROG_LOG\TPI\ABM Y DB\ABMInquilinos.app\ABMInquilinos.app\obj\Debug\net7.0-windows\refint\ABMInquilinos.app.dll
+E:\JOEL\TUP - UTN - FRC\PRIMER_CUAT\PROG_LOG\TPI\ABM Y DB\ABMInquilinos.app\ABMInquilinos.app\obj\Debug\net7.0-windows\ABMInquilinos.app.pdb
+E:\JOEL\TUP - UTN - FRC\PRIMER_CUAT\PROG_LOG\TPI\ABM Y DB\ABMInquilinos.app\ABMInquilinos.app\obj\Debug\net7.0-windows\ABMInquilinos.app.genruntimeconfig.cache
+E:\JOEL\TUP - UTN - FRC\PRIMER_CUAT\PROG_LOG\TPI\ABM Y DB\ABMInquilinos.app\ABMInquilinos.app\obj\Debug\net7.0-windows\ref\ABMInquilinos.app.dll
+E:\JOEL\TUP - UTN - FRC\PRIMER_CUAT\PROG_LOG\TPI\ABM Y DB\ABMInquilinos.app\ABMInquilinos.app\obj\Debug\net7.0-windows\ABMInquilinos.app.Vistas.FrmPrincipal.resources
+E:\JOEL\TUP - UTN - FRC\PRIMER_CUAT\PROG_LOG\TPI\ABM Y DB\ABMInquilinos.app\ABMInquilinos.app\obj\Debug\net7.0-windows\ABMInquilinos.app.Vistas.FrmConsultas.resources
+F:\Desktop\Escritorio\TUP\PRIMER CUATRIMESTRE\TPI\Entrega 3\ultimo\ABMInquilinos.app\ABMInquilinos.app\bin\Debug\net7.0-windows\ABMInquilinos.app.exe
+F:\Desktop\Escritorio\TUP\PRIMER CUATRIMESTRE\TPI\Entrega 3\ultimo\ABMInquilinos.app\ABMInquilinos.app\bin\Debug\net7.0-windows\ABMInquilinos.app.deps.json
+F:\Desktop\Escritorio\TUP\PRIMER CUATRIMESTRE\TPI\Entrega 3\ultimo\ABMInquilinos.app\ABMInquilinos.app\bin\Debug\net7.0-windows\ABMInquilinos.app.runtimeconfig.json
+F:\Desktop\Escritorio\TUP\PRIMER CUATRIMESTRE\TPI\Entrega 3\ultimo\ABMInquilinos.app\ABMInquilinos.app\bin\Debug\net7.0-windows\ABMInquilinos.app.dll
+F:\Desktop\Escritorio\TUP\PRIMER CUATRIMESTRE\TPI\Entrega 3\ultimo\ABMInquilinos.app\ABMInquilinos.app\bin\Debug\net7.0-windows\ABMInquilinos.app.pdb
+F:\Desktop\Escritorio\TUP\PRIMER CUATRIMESTRE\TPI\Entrega 3\ultimo\ABMInquilinos.app\ABMInquilinos.app\bin\Debug\net7.0-windows\System.Data.SqlClient.dll
+F:\Desktop\Escritorio\TUP\PRIMER CUATRIMESTRE\TPI\Entrega 3\ultimo\ABMInquilinos.app\ABMInquilinos.app\bin\Debug\net7.0-windows\runtimes\win-arm64\native\sni.dll
+F:\Desktop\Escritorio\TUP\PRIMER CUATRIMESTRE\TPI\Entrega 3\ultimo\ABMInquilinos.app\ABMInquilinos.app\bin\Debug\net7.0-windows\runtimes\win-x64\native\sni.dll
+F:\Desktop\Escritorio\TUP\PRIMER CUATRIMESTRE\TPI\Entrega 3\ultimo\ABMInquilinos.app\ABMInquilinos.app\bin\Debug\net7.0-windows\runtimes\win-x86\native\sni.dll
+F:\Desktop\Escritorio\TUP\PRIMER CUATRIMESTRE\TPI\Entrega 3\ultimo\ABMInquilinos.app\ABMInquilinos.app\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\Desktop\Escritorio\TUP\PRIMER CUATRIMESTRE\TPI\Entrega 3\ultimo\ABMInquilinos.app\ABMInquilinos.app\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\Desktop\Escritorio\TUP\PRIMER CUATRIMESTRE\TPI\Entrega 3\ultimo\ABMInquilinos.app\ABMInquilinos.app\obj\Debug\net7.0-windows\ABMInquilinos.app.csproj.AssemblyReference.cache
+F:\Desktop\Escritorio\TUP\PRIMER CUATRIMESTRE\TPI\Entrega 3\ultimo\ABMInquilinos.app\ABMInquilinos.app\obj\Debug\net7.0-windows\ABMInquilinos.app.Properties.Resources.resources
+F:\Desktop\Escritorio\TUP\PRIMER CUATRIMESTRE\TPI\Entrega 3\ultimo\ABMInquilinos.app\ABMInquilinos.app\obj\Debug\net7.0-windows\ABMInquilinos.app.Vistas.FrmConsultas.resources
+F:\Desktop\Escritorio\TUP\PRIMER CUATRIMESTRE\TPI\Entrega 3\ultimo\ABMInquilinos.app\ABMInquilinos.app\obj\Debug\net7.0-windows\ABMInquilinos.app.Vistas.FrmDetalleInquilino.resources
+F:\Desktop\Escritorio\TUP\PRIMER CUATRIMESTRE\TPI\Entrega 3\ultimo\ABMInquilinos.app\ABMInquilinos.app\obj\Debug\net7.0-windows\ABMInquilinos.app.Vistas.FrmMenu.resources
+F:\Desktop\Escritorio\TUP\PRIMER CUATRIMESTRE\TPI\Entrega 3\ultimo\ABMInquilinos.app\ABMInquilinos.app\obj\Debug\net7.0-windows\ABMInquilinos.app.Vistas.FrmPrincipal.resources
+F:\Desktop\Escritorio\TUP\PRIMER CUATRIMESTRE\TPI\Entrega 3\ultimo\ABMInquilinos.app\ABMInquilinos.app\obj\Debug\net7.0-windows\ABMInquilinos.app.Vistas.FrmUpsertInquilino.resources
+F:\Desktop\Escritorio\TUP\PRIMER CUATRIMESTRE\TPI\Entrega 3\ultimo\ABMInquilinos.app\ABMInquilinos.app\obj\Debug\net7.0-windows\ABMInquilinos.app.csproj.GenerateResource.cache
+F:\Desktop\Escritorio\TUP\PRIMER CUATRIMESTRE\TPI\Entrega 3\ultimo\ABMInquilinos.app\ABMInquilinos.app\obj\Debug\net7.0-windows\ABMInquilinos.app.GeneratedMSBuildEditorConfig.editorconfig
+F:\Desktop\Escritorio\TUP\PRIMER CUATRIMESTRE\TPI\Entrega 3\ultimo\ABMInquilinos.app\ABMInquilinos.app\obj\Debug\net7.0-windows\ABMInquilinos.app.AssemblyInfoInputs.cache
+F:\Desktop\Escritorio\TUP\PRIMER CUATRIMESTRE\TPI\Entrega 3\ultimo\ABMInquilinos.app\ABMInquilinos.app\obj\Debug\net7.0-windows\ABMInquilinos.app.AssemblyInfo.cs
+F:\Desktop\Escritorio\TUP\PRIMER CUATRIMESTRE\TPI\Entrega 3\ultimo\ABMInquilinos.app\ABMInquilinos.app\obj\Debug\net7.0-windows\ABMInquilinos.app.csproj.CoreCompileInputs.cache
+F:\Desktop\Escritorio\TUP\PRIMER CUATRIMESTRE\TPI\Entrega 3\ultimo\ABMInquilinos.app\ABMInquilinos.app\obj\Debug\net7.0-windows\ABMInquilinos.app.csproj.CopyComplete
+F:\Desktop\Escritorio\TUP\PRIMER CUATRIMESTRE\TPI\Entrega 3\ultimo\ABMInquilinos.app\ABMInquilinos.app\obj\Debug\net7.0-windows\ABMInquilinos.app.dll
+F:\Desktop\Escritorio\TUP\PRIMER CUATRIMESTRE\TPI\Entrega 3\ultimo\ABMInquilinos.app\ABMInquilinos.app\obj\Debug\net7.0-windows\refint\ABMInquilinos.app.dll
+F:\Desktop\Escritorio\TUP\PRIMER CUATRIMESTRE\TPI\Entrega 3\ultimo\ABMInquilinos.app\ABMInquilinos.app\obj\Debug\net7.0-windows\ABMInquilinos.app.pdb
+F:\Desktop\Escritorio\TUP\PRIMER CUATRIMESTRE\TPI\Entrega 3\ultimo\ABMInquilinos.app\ABMInquilinos.app\obj\Debug\net7.0-windows\ABMInquilinos.app.genruntimeconfig.cache
+F:\Desktop\Escritorio\TUP\PRIMER CUATRIMESTRE\TPI\Entrega 3\ultimo\ABMInquilinos.app\ABMInquilinos.app\obj\Debug\net7.0-windows\ref\ABMInquilinos.app.dll
+C:\Users\josia\OneDrive\Escritorio\TUP\Actividades\PROGRAMACION ACTIVIDADES\Logica\1W3_Grupo22_Parte3\ABMInquilinos.app\ABMInquilinos.app\obj\Debug\net7.0-windows\ABMInquilinos.app.csproj.AssemblyReference.cache
+C:\Users\josia\OneDrive\Escritorio\TUP\Actividades\PROGRAMACION ACTIVIDADES\Logica\1W3_Grupo22_Parte3\ABMInquilinos.app\ABMInquilinos.app\obj\Debug\net7.0-windows\ABMInquilinos.app.dll
+C:\Users\josia\OneDrive\Escritorio\TUP\Actividades\PROGRAMACION ACTIVIDADES\Logica\1W3_Grupo22_Parte3\ABMInquilinos.app\ABMInquilinos.app\obj\Debug\net7.0-windows\refint\ABMInquilinos.app.dll
+C:\Users\josia\OneDrive\Escritorio\TUP\Actividades\PROGRAMACION ACTIVIDADES\Logica\1W3_Grupo22_Parte3\ABMInquilinos.app\ABMInquilinos.app\obj\Debug\net7.0-windows\ABMInquilinos.app.pdb

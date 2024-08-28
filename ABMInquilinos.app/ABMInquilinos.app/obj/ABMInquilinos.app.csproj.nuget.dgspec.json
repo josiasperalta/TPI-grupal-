@@ -1,0 +1,77 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\josia\\OneDrive\\Escritorio\\TUP\\Actividades\\PROGRAMACION ACTIVIDADES\\Logica\\1W3_Grupo22_Parte3\\ABMInquilinos.app\\ABMInquilinos.app\\ABMInquilinos.app.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\josia\\OneDrive\\Escritorio\\TUP\\Actividades\\PROGRAMACION ACTIVIDADES\\Logica\\1W3_Grupo22_Parte3\\ABMInquilinos.app\\ABMInquilinos.app\\ABMInquilinos.app.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\josia\\OneDrive\\Escritorio\\TUP\\Actividades\\PROGRAMACION ACTIVIDADES\\Logica\\1W3_Grupo22_Parte3\\ABMInquilinos.app\\ABMInquilinos.app\\ABMInquilinos.app.csproj",
+        "projectName": "ABMInquilinos.app",
+        "projectPath": "C:\\Users\\josia\\OneDrive\\Escritorio\\TUP\\Actividades\\PROGRAMACION ACTIVIDADES\\Logica\\1W3_Grupo22_Parte3\\ABMInquilinos.app\\ABMInquilinos.app\\ABMInquilinos.app.csproj",
+        "packagesPath": "C:\\Users\\josia\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\josia\\OneDrive\\Escritorio\\TUP\\Actividades\\PROGRAMACION ACTIVIDADES\\Logica\\1W3_Grupo22_Parte3\\ABMInquilinos.app\\ABMInquilinos.app\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\josia\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0-windows7.0": {
+            "targetAlias": "net7.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net7.0-windows7.0": {
+          "targetAlias": "net7.0-windows",
+          "dependencies": {
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

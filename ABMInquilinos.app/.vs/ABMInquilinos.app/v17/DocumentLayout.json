@@ -1,0 +1,195 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\josia\\OneDrive\\Escritorio\\TUP\\Actividades\\PROGRAMACION ACTIVIDADES\\Logica\\1W3_Grupo22_Parte3\\ABMInquilinos.app\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B64F2A08-F8FC-442B-B60A-09332963B864}|ABMInquilinos.app\\ABMInquilinos.app.csproj|c:\\users\\josia\\onedrive\\escritorio\\tup\\actividades\\programacion actividades\\logica\\1w3_grupo22_parte3\\abminquilinos.app\\abminquilinos.app\\vistas\\frmupsertinquilino.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B64F2A08-F8FC-442B-B60A-09332963B864}|ABMInquilinos.app\\ABMInquilinos.app.csproj|solutionrelative:abminquilinos.app\\vistas\\frmupsertinquilino.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B64F2A08-F8FC-442B-B60A-09332963B864}|ABMInquilinos.app\\ABMInquilinos.app.csproj|c:\\users\\josia\\onedrive\\escritorio\\tup\\actividades\\programacion actividades\\logica\\1w3_grupo22_parte3\\abminquilinos.app\\abminquilinos.app\\vistas\\frmupsertinquilino.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B64F2A08-F8FC-442B-B60A-09332963B864}|ABMInquilinos.app\\ABMInquilinos.app.csproj|solutionrelative:abminquilinos.app\\vistas\\frmupsertinquilino.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B64F2A08-F8FC-442B-B60A-09332963B864}|ABMInquilinos.app\\ABMInquilinos.app.csproj|c:\\users\\josia\\onedrive\\escritorio\\tup\\actividades\\programacion actividades\\logica\\1w3_grupo22_parte3\\abminquilinos.app\\abminquilinos.app\\vistas\\frmmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B64F2A08-F8FC-442B-B60A-09332963B864}|ABMInquilinos.app\\ABMInquilinos.app.csproj|solutionrelative:abminquilinos.app\\vistas\\frmmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B64F2A08-F8FC-442B-B60A-09332963B864}|ABMInquilinos.app\\ABMInquilinos.app.csproj|c:\\users\\josia\\onedrive\\escritorio\\tup\\actividades\\programacion actividades\\logica\\1w3_grupo22_parte3\\abminquilinos.app\\abminquilinos.app\\vistas\\frmmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B64F2A08-F8FC-442B-B60A-09332963B864}|ABMInquilinos.app\\ABMInquilinos.app.csproj|solutionrelative:abminquilinos.app\\vistas\\frmmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B64F2A08-F8FC-442B-B60A-09332963B864}|ABMInquilinos.app\\ABMInquilinos.app.csproj|c:\\users\\josia\\onedrive\\escritorio\\tup\\actividades\\programacion actividades\\logica\\1w3_grupo22_parte3\\abminquilinos.app\\abminquilinos.app\\vistas\\frmconsultas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B64F2A08-F8FC-442B-B60A-09332963B864}|ABMInquilinos.app\\ABMInquilinos.app.csproj|solutionrelative:abminquilinos.app\\vistas\\frmconsultas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B64F2A08-F8FC-442B-B60A-09332963B864}|ABMInquilinos.app\\ABMInquilinos.app.csproj|c:\\users\\josia\\onedrive\\escritorio\\tup\\actividades\\programacion actividades\\logica\\1w3_grupo22_parte3\\abminquilinos.app\\abminquilinos.app\\vistas\\frmdetalleinquilino.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B64F2A08-F8FC-442B-B60A-09332963B864}|ABMInquilinos.app\\ABMInquilinos.app.csproj|solutionrelative:abminquilinos.app\\vistas\\frmdetalleinquilino.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B64F2A08-F8FC-442B-B60A-09332963B864}|ABMInquilinos.app\\ABMInquilinos.app.csproj|c:\\users\\josia\\onedrive\\escritorio\\tup\\actividades\\programacion actividades\\logica\\1w3_grupo22_parte3\\abminquilinos.app\\abminquilinos.app\\vistas\\frmdetalleinquilino.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B64F2A08-F8FC-442B-B60A-09332963B864}|ABMInquilinos.app\\ABMInquilinos.app.csproj|solutionrelative:abminquilinos.app\\vistas\\frmdetalleinquilino.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B64F2A08-F8FC-442B-B60A-09332963B864}|ABMInquilinos.app\\ABMInquilinos.app.csproj|c:\\users\\josia\\onedrive\\escritorio\\tup\\actividades\\programacion actividades\\logica\\1w3_grupo22_parte3\\abminquilinos.app\\abminquilinos.app\\vistas\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B64F2A08-F8FC-442B-B60A-09332963B864}|ABMInquilinos.app\\ABMInquilinos.app.csproj|solutionrelative:abminquilinos.app\\vistas\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B64F2A08-F8FC-442B-B60A-09332963B864}|ABMInquilinos.app\\ABMInquilinos.app.csproj|c:\\users\\josia\\onedrive\\escritorio\\tup\\actividades\\programacion actividades\\logica\\1w3_grupo22_parte3\\abminquilinos.app\\abminquilinos.app\\vistas\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B64F2A08-F8FC-442B-B60A-09332963B864}|ABMInquilinos.app\\ABMInquilinos.app.csproj|solutionrelative:abminquilinos.app\\vistas\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B64F2A08-F8FC-442B-B60A-09332963B864}|ABMInquilinos.app\\ABMInquilinos.app.csproj|c:\\users\\josia\\onedrive\\escritorio\\tup\\actividades\\programacion actividades\\logica\\1w3_grupo22_parte3\\abminquilinos.app\\abminquilinos.app\\vistas\\frmconsultas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B64F2A08-F8FC-442B-B60A-09332963B864}|ABMInquilinos.app\\ABMInquilinos.app.csproj|solutionrelative:abminquilinos.app\\vistas\\frmconsultas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 187,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 301,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmUpsertInquilino.cs",
+              "DocumentMoniker": "C:\\Users\\josia\\OneDrive\\Escritorio\\TUP\\Actividades\\PROGRAMACION ACTIVIDADES\\Logica\\1W3_Grupo22_Parte3\\ABMInquilinos.app\\ABMInquilinos.app\\Vistas\\FrmUpsertInquilino.cs",
+              "RelativeDocumentMoniker": "ABMInquilinos.app\\Vistas\\FrmUpsertInquilino.cs",
+              "ToolTip": "C:\\Users\\josia\\OneDrive\\Escritorio\\TUP\\Actividades\\PROGRAMACION ACTIVIDADES\\Logica\\1W3_Grupo22_Parte3\\ABMInquilinos.app\\ABMInquilinos.app\\Vistas\\FrmUpsertInquilino.cs",
+              "RelativeToolTip": "ABMInquilinos.app\\Vistas\\FrmUpsertInquilino.cs",
+              "ViewState": "AQIAAJIAAAAAAAAAAAAuwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T18:32:12.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmUpsertInquilino.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\josia\\OneDrive\\Escritorio\\TUP\\Actividades\\PROGRAMACION ACTIVIDADES\\Logica\\1W3_Grupo22_Parte3\\ABMInquilinos.app\\ABMInquilinos.app\\Vistas\\FrmUpsertInquilino.cs",
+              "RelativeDocumentMoniker": "ABMInquilinos.app\\Vistas\\FrmUpsertInquilino.cs",
+              "ToolTip": "C:\\Users\\josia\\OneDrive\\Escritorio\\TUP\\Actividades\\PROGRAMACION ACTIVIDADES\\Logica\\1W3_Grupo22_Parte3\\ABMInquilinos.app\\ABMInquilinos.app\\Vistas\\FrmUpsertInquilino.cs [Dise\u00F1o]",
+              "RelativeToolTip": "ABMInquilinos.app\\Vistas\\FrmUpsertInquilino.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T18:32:08.092Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmMenu.cs",
+              "DocumentMoniker": "C:\\Users\\josia\\OneDrive\\Escritorio\\TUP\\Actividades\\PROGRAMACION ACTIVIDADES\\Logica\\1W3_Grupo22_Parte3\\ABMInquilinos.app\\ABMInquilinos.app\\Vistas\\FrmMenu.cs",
+              "RelativeDocumentMoniker": "ABMInquilinos.app\\Vistas\\FrmMenu.cs",
+              "ToolTip": "C:\\Users\\josia\\OneDrive\\Escritorio\\TUP\\Actividades\\PROGRAMACION ACTIVIDADES\\Logica\\1W3_Grupo22_Parte3\\ABMInquilinos.app\\ABMInquilinos.app\\Vistas\\FrmMenu.cs",
+              "RelativeToolTip": "ABMInquilinos.app\\Vistas\\FrmMenu.cs",
+              "ViewState": "AQIAAF4AAAAAAAAAAAAmwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T18:32:04.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmMenu.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\josia\\OneDrive\\Escritorio\\TUP\\Actividades\\PROGRAMACION ACTIVIDADES\\Logica\\1W3_Grupo22_Parte3\\ABMInquilinos.app\\ABMInquilinos.app\\Vistas\\FrmMenu.cs",
+              "RelativeDocumentMoniker": "ABMInquilinos.app\\Vistas\\FrmMenu.cs",
+              "ToolTip": "C:\\Users\\josia\\OneDrive\\Escritorio\\TUP\\Actividades\\PROGRAMACION ACTIVIDADES\\Logica\\1W3_Grupo22_Parte3\\ABMInquilinos.app\\ABMInquilinos.app\\Vistas\\FrmMenu.cs [Dise\u00F1o]",
+              "RelativeToolTip": "ABMInquilinos.app\\Vistas\\FrmMenu.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T18:31:58.799Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FrmDetalleInquilino.cs",
+              "DocumentMoniker": "C:\\Users\\josia\\OneDrive\\Escritorio\\TUP\\Actividades\\PROGRAMACION ACTIVIDADES\\Logica\\1W3_Grupo22_Parte3\\ABMInquilinos.app\\ABMInquilinos.app\\Vistas\\FrmDetalleInquilino.cs",
+              "RelativeDocumentMoniker": "ABMInquilinos.app\\Vistas\\FrmDetalleInquilino.cs",
+              "ToolTip": "C:\\Users\\josia\\OneDrive\\Escritorio\\TUP\\Actividades\\PROGRAMACION ACTIVIDADES\\Logica\\1W3_Grupo22_Parte3\\ABMInquilinos.app\\ABMInquilinos.app\\Vistas\\FrmDetalleInquilino.cs",
+              "RelativeToolTip": "ABMInquilinos.app\\Vistas\\FrmDetalleInquilino.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T18:31:53.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FrmDetalleInquilino.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\josia\\OneDrive\\Escritorio\\TUP\\Actividades\\PROGRAMACION ACTIVIDADES\\Logica\\1W3_Grupo22_Parte3\\ABMInquilinos.app\\ABMInquilinos.app\\Vistas\\FrmDetalleInquilino.cs",
+              "RelativeDocumentMoniker": "ABMInquilinos.app\\Vistas\\FrmDetalleInquilino.cs",
+              "ToolTip": "C:\\Users\\josia\\OneDrive\\Escritorio\\TUP\\Actividades\\PROGRAMACION ACTIVIDADES\\Logica\\1W3_Grupo22_Parte3\\ABMInquilinos.app\\ABMInquilinos.app\\Vistas\\FrmDetalleInquilino.cs [Dise\u00F1o]",
+              "RelativeToolTip": "ABMInquilinos.app\\Vistas\\FrmDetalleInquilino.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T18:31:50.066Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FrmConsultas.cs",
+              "DocumentMoniker": "C:\\Users\\josia\\OneDrive\\Escritorio\\TUP\\Actividades\\PROGRAMACION ACTIVIDADES\\Logica\\1W3_Grupo22_Parte3\\ABMInquilinos.app\\ABMInquilinos.app\\Vistas\\FrmConsultas.cs",
+              "RelativeDocumentMoniker": "ABMInquilinos.app\\Vistas\\FrmConsultas.cs",
+              "ToolTip": "C:\\Users\\josia\\OneDrive\\Escritorio\\TUP\\Actividades\\PROGRAMACION ACTIVIDADES\\Logica\\1W3_Grupo22_Parte3\\ABMInquilinos.app\\ABMInquilinos.app\\Vistas\\FrmConsultas.cs",
+              "RelativeToolTip": "ABMInquilinos.app\\Vistas\\FrmConsultas.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABoAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T18:31:40.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FrmPrincipal.cs",
+              "DocumentMoniker": "C:\\Users\\josia\\OneDrive\\Escritorio\\TUP\\Actividades\\PROGRAMACION ACTIVIDADES\\Logica\\1W3_Grupo22_Parte3\\ABMInquilinos.app\\ABMInquilinos.app\\Vistas\\FrmPrincipal.cs",
+              "RelativeDocumentMoniker": "ABMInquilinos.app\\Vistas\\FrmPrincipal.cs",
+              "ToolTip": "C:\\Users\\josia\\OneDrive\\Escritorio\\TUP\\Actividades\\PROGRAMACION ACTIVIDADES\\Logica\\1W3_Grupo22_Parte3\\ABMInquilinos.app\\ABMInquilinos.app\\Vistas\\FrmPrincipal.cs",
+              "RelativeToolTip": "ABMInquilinos.app\\Vistas\\FrmPrincipal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T18:32:10.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FrmPrincipal.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\josia\\OneDrive\\Escritorio\\TUP\\Actividades\\PROGRAMACION ACTIVIDADES\\Logica\\1W3_Grupo22_Parte3\\ABMInquilinos.app\\ABMInquilinos.app\\Vistas\\FrmPrincipal.cs",
+              "RelativeDocumentMoniker": "ABMInquilinos.app\\Vistas\\FrmPrincipal.cs",
+              "ToolTip": "C:\\Users\\josia\\OneDrive\\Escritorio\\TUP\\Actividades\\PROGRAMACION ACTIVIDADES\\Logica\\1W3_Grupo22_Parte3\\ABMInquilinos.app\\ABMInquilinos.app\\Vistas\\FrmPrincipal.cs [Dise\u00F1o]",
+              "RelativeToolTip": "ABMInquilinos.app\\Vistas\\FrmPrincipal.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T18:32:06.353Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FrmConsultas.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\josia\\OneDrive\\Escritorio\\TUP\\Actividades\\PROGRAMACION ACTIVIDADES\\Logica\\1W3_Grupo22_Parte3\\ABMInquilinos.app\\ABMInquilinos.app\\Vistas\\FrmConsultas.cs",
+              "RelativeDocumentMoniker": "ABMInquilinos.app\\Vistas\\FrmConsultas.cs",
+              "ToolTip": "C:\\Users\\josia\\OneDrive\\Escritorio\\TUP\\Actividades\\PROGRAMACION ACTIVIDADES\\Logica\\1W3_Grupo22_Parte3\\ABMInquilinos.app\\ABMInquilinos.app\\Vistas\\FrmConsultas.cs [Dise\u00F1o]",
+              "RelativeToolTip": "ABMInquilinos.app\\Vistas\\FrmConsultas.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T18:31:14.668Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
